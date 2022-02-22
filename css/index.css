@@ -1,0 +1,17 @@
+body{
+    background-color: azure;
+}
+h1{
+    text-align: center;
+    font-style:oblique ;
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+
+}
+ol li{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    color: rgb(12, 9, 238);
+}
